@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Product 1",
+        "category": "pizzas",
+        "price": 22,
+        "image": "images/pizza.jpeg"
+    },
+    {
+        "name": "Product 6",
+        "category": "burgers",
+        "price": 17,
+        "image": "images/burger.jpeg"
+    },
+    {
+        "name": "Product 2",
+        "category": "pizzas",
+        "price": 18,
+        "image": "images/pizza.jpeg"
+    },
+    {
+        "name": "Product 3",
+        "category": "pizzas",
+        "price": 19,
+        "image": "images/pizza.jpeg"
+    },
+    {
+        "name": "Product 7",
+        "category": "burgers",
+        "price": 21,
+        "image": "images/burger.jpeg"
+    },
+    {
+        "name": "Product 12",
+        "category": "drinks",
+        "price": 22,
+        "image": "/images/drink.jpeg"
+    },
+    {
+        "name": "Product 4",
+        "category": "pizzas",
+        "price": 25,
+        "image": "images/pizza.jpeg"
+    },
+    {
+        "name": "Product 5",
+        "category": "pizzas",
+        "price": 18,
+        "image": "images/pizza.jpeg"
+    },
+    {
+        "name": "Product 8",
+        "category": "burgers",
+        "price": 19,
+        "image": "images/burger.jpeg"
+    },
+    {
+        "name": "Product 9",
+        "category": "burgers",
+        "price": 20,
+        "image": "images/burger.jpeg"
+    },
+    {
+        "name": "Product 13",
+        "category": "drinks",
+        "price": 15,
+        "image": "/images/drink.jpeg"
+    },
+    {
+        "name": "Product 10",
+        "category": "burgers",
+        "price": 20,
+        "image": "/images/burger.jpeg"
+    },
+    {
+        "name": "Product 11",
+        "category": "burgers",
+        "price": 22,
+        "image": "/images/burger.jpeg"
+    },
+    {
+        "name": "Product 14",
+        "category": "drinks",
+        "price": 8,
+        "image": "/images/drink.jpeg"
+    },
+    {
+        "name": "Product 15",
+        "category": "drinks",
+        "price": 7,
+        "image": "/images/drink.jpeg"
+    },
+    {
+        "name": "Product 16",
+        "category": "drinks",
+        "price": 4,
+        "image": "/images/drink.jpeg"
+    },
+    {
+        "name": "Product 17",
+        "category": "drinks",
+        "price": 8,
+        "image": "/images/drink.jpeg"
+    },
+    {
+        "name": "Product 18",
+        "category": "drinks",
+        "price": 4,
+        "image": "/images/drink.jpeg"
+    },
+    {
+        "name": "Product 19",
+        "category": "drinks",
+        "price": 5,
+        "image": "/images/drink.jpeg"
+    },
+    {
+        "name": "Product 20",
+        "category": "drinks",
+        "price": 1.9,
+        "image": "/images/drink.jpeg"
+    },
+    {
+        "name": "Product 21",
+        "category": "drinks",
+        "price": 2,
+        "image": "/images/drink.jpeg"
+    }
+]

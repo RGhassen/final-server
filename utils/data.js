@@ -1,0 +1,142 @@
+
+const products = [
+    {
+        name: "Product 1",
+        category: "pizzas",
+        price: 2.2,
+        image: "images/pizza.jpeg",
+    },
+    {
+        name: "Product 6",
+        category: "burgers",
+        price: 1.75,
+        image: "images/pizza.jpeg",
+    },
+    {
+        name: "Product 2",
+        category: "pizzas",
+        price: 1.85,
+        image: "images/pizza.jpeg",
+    },
+    {
+        name: "Product 3",
+        category: "pizzas",
+        price: 1.95,
+        image: "images/pizza.jpeg",
+    },
+    {
+        name: "Product 7",
+        category: "burgers",
+        price: 2.1,
+        image: "images/burger.jpeg",
+    },
+    {
+        name: "Product 12",
+        category: "drinks",
+        price: 2.25,
+        image: "images/drink.jpeg",
+    },
+    {
+        name: "Product 4",
+        category: "pizzas",
+        price: 2.5,
+        image: "images/pizza.jpeg",
+    },
+    {
+        name: "Product 5",
+        category: "pizzas",
+        price: 1.8,
+        image: "images/pizza.jpeg",
+    },
+    {
+        name: "Product 8",
+        category: "burgers",
+        price: 1.95,
+        image: "images/burger.jpeg",
+    },
+    {
+        name: "Product 9",
+        category: "burgers",
+        price: 2,
+        image: "images/burger.jpeg",
+    },
+    ,
+    {
+        name: "Product 13",
+        category: "drinks",
+        price: 1.5,
+        image: "images/drink.jpeg",
+    },
+    ,
+    {
+        name: "Product 10",
+        category: "burgers",
+        price: 2,
+        image: "images/burger.jpeg",
+    },
+    ,
+    {
+        name: "Product 11",
+        category: "burgers",
+        price: 2.25,
+        image: "images/burger.jpeg",
+    },
+    ,
+    {
+        name: "Product 14",
+        category: "drinks",
+        price: 1.8,
+        image: "images/drink.jpeg",
+    },
+    ,
+    {
+        name: "Product 15",
+        category: "drinks",
+        price: 1.7,
+        image: "images/drink.jpeg",
+    },
+    ,
+    {
+        name: "Product 16",
+        category: "drinks",
+        price: 2,
+        image: "images/drink.jpeg",
+    },
+    ,
+    {
+        name: "Product 17",
+        category: "drinks",
+        price: 2.8,
+        image: "images/drink.jpeg",
+    },
+    ,
+    {
+        name: "Product 18",
+        category: "drinks",
+        price: 2.4,
+        image: "images/drink.jpeg",
+    },
+    ,
+    {
+        name: "Product 19",
+        category: "drinks",
+        price: 2.5,
+        image: "images/drink.jpeg",
+    },
+    ,
+    {
+        name: "Product 20",
+        category: "drinks",
+        price: 1.9,
+        image: "images/drink.jpeg",
+    },
+    ,
+    {
+        name: "Product 21",
+        category: "drinks",
+        price: 2.2,
+        image: "images/drink.jpeg",
+    }
+]
+
+export default products;
